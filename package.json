@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ConnorChristie/Audio-Mixer.git"
+    "url": "git+https://github.com/haugasdev/Audio-Mixer.git"
   },
   "keywords": [
     "audio",
@@ -20,9 +20,9 @@
   "author": "Connor Christie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ConnorChristie/Audio-Mixer/issues"
+    "url": "https://github.com/haugasdev/Audio-Mixer/issues"
   },
-  "homepage": "https://github.com/ConnorChristie/Audio-Mixer#readme",
+  "homepage": "https://github.com/haugasdev/Audio-Mixer#readme",
   "devDependencies": {
     "@types/node": "^8.0.14",
     "audio-cmd-stream": "^1.0.3",
